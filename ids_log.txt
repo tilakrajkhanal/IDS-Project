@@ -1,0 +1,210 @@
+2025-02-28 16:52:44,047 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,047 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,165 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:52:44,166 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,166 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,177 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:52:44,178 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,178 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,189 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,189 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,200 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,200 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,212 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,212 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,224 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,224 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,235 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:52:44,236 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,236 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,247 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:52:44,247 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,247 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,260 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,260 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,272 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,272 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,283 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,283 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,295 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,295 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,306 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:52:44,307 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,307 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,319 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:52:44,319 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,319 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,331 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,331 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,343 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,343 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,355 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:52:44,355 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,355 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,366 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:52:44,367 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,367 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:52:44,379 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:52:44,379 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:34,163 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:34,163 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:34,178 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:34,179 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:34,179 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:34,191 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:35,168 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:35,168 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:35,189 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:35,189 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:35,189 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:35,204 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:36,191 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:36,191 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:36,214 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:36,214 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:36,214 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:36,230 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:37,215 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:37,215 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:37,232 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:37,232 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:37,232 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:37,244 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:38,238 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:38,239 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:38,257 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:38,257 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:38,257 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:38,270 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:39,263 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:39,263 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:39,282 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:39,282 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:39,282 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:39,295 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:41,279 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:41,279 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:41,296 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:41,296 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:41,296 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:41,309 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:45,343 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:45,343 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:45,365 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:45,366 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:45,366 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:45,378 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:53,535 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:53,536 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:53,562 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 16:55:53,563 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 16:55:53,563 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 16:55:53,575 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:38,938 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:38,938 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:38,952 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:38,952 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:38,952 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:38,964 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:39,967 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:39,967 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:39,988 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:39,989 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:39,989 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:40,000 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:40,991 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:40,991 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:41,012 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:41,012 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:41,012 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:41,024 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:42,014 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:42,015 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:42,034 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:42,034 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:42,034 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:42,046 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:43,039 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:43,039 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:43,068 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:43,068 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:43,068 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:43,080 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:44,063 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:44,063 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:44,084 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:44,084 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:44,084 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:44,096 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:46,079 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:46,080 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:46,101 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:46,101 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:46,101 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:46,114 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:58,527 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:58,527 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:58,547 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:31:58,548 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:31:58,548 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:31:58,560 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:32:14,654 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:32:14,654 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:32:14,669 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:32:14,669 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:32:14,669 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:32:14,681 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:32:47,935 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:32:47,935 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:32:47,954 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:32:47,954 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:32:47,954 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:32:47,967 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:50,924 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:50,924 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:50,941 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:50,941 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:50,941 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:50,953 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:50,954 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:50,954 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:50,965 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:50,965 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:50,965 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:50,976 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:50,976 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:50,976 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:50,987 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:50,987 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:50,987 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:50,998 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:50,998 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:50,998 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:51,010 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:51,010 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:51,010 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:51,022 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:52,927 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:52,927 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:52,950 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:52,951 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:52,951 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:52,963 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:52,963 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:52,963 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:52,974 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:52,974 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:52,975 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:52,985 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:52,986 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:52,986 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:52,997 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:52,997 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:52,998 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:53,009 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:53,009 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:53,009 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:53,022 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
+2025-02-28 17:33:53,022 - [ALERT] 🚨 Malicious IP detected: 127.0.0.1 → 127.0.0.1
+2025-02-28 17:33:53,022 - [ACTION] IP Blocked: 127.0.0.1
+2025-02-28 17:33:53,034 - [ALERT] 🚨 Port Scan Detected from 127.0.0.1
